@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="sportsCard" size="0.060000 0.038052" />
+    <ImageTarget name="QueenOfSpades" size="0.060000 0.059670" />
+    <ImageTarget name="kos" size="0.060000 0.083961" />
+  </Tracking>
+</QCARConfig>
